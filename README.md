@@ -1,17 +1,7 @@
-## About Me
+## About
 
- <ul>
-   <img src="./h_seas_logo_rgb.png" align="right" style="width: 300px;">
-  <li>Master's in Machine Learning at Harvard University</li>
-  <li>Interested in Machine Learning, DeFi and Risk Management</li>
- </ul>
- <br>
+I’m a Co-founder and Chief AI Officer at PortexAI, building evals and agent systems for real-world AI performance.
 
-## Links
-[![Linkedin](https://img.shields.io/badge/linkedin-blue?&style=for-the-badge)](https://www.linkedin.com/in/tadhg-looram-98849272/)
+Previously, I studied machine learning at Harvard, worked on applied ML and bytecode analysis at Coin Metrics, and spent five years at the Federal Reserve Bank of New York in markets and risk-focused roles.
 
-## Stats
-
- <div align="left">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tadhglooram93" alt="Gift's LangStat" />
-</div>
+Here I share projects, experiments, and technical work across LLMs, evaluation systems, and applied machine learning.
