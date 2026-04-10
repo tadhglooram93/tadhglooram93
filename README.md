@@ -1,5 +1,5 @@
 ## About
 
-I’m a Co-founder and Chief AI Officer at PortexAI, building evals and agent systems for real-world AI performance.
+I’m the Co-founder and Chief AI Officer at PortexAI, where I lead our AI roadmap and work on LLM evaluation systems, AI agent workflows, and real-world AI performance.
 
-Previously, I studied machine learning at Harvard, worked on applied ML and bytecode analysis at Coin Metrics, and spent five years at the Federal Reserve Bank of New York in markets and risk-focused roles.
+My background spans machine learning, applied research, and quantitative risk analysis. I earned my master’s in Data Science at Harvard, worked as a Machine Learning Engineer on the CM Labs team at Coin Metrics, and previously spent five years at the Federal Reserve Bank of New York in quantiative roles across the market group.
